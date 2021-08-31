@@ -3,5 +3,6 @@
     <pages>
         <page name='Guards with Optionals'/>
         <page name='Guard Statement'/>
+        <page name='Guard Let vs If Let'/>
     </pages>
 </playground>

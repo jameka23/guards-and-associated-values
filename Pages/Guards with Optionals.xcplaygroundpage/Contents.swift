@@ -16,4 +16,4 @@ func checkout(card: Card?) {
 let testCard = Card(token: "token1234", brand: "Visa", lastFourDigits: "0123", validCCV: true)
 
 //: Answer
-//
+// It will NOT exit early, all conditions are met in the guard. 

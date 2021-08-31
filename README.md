@@ -1,4 +1,9 @@
 # guards-and-associated-values
 
 
-udacity's exercises for associated values and guards
+Udacity's exercises for associated values and guards
+
+
+
+
+- ## Open each playgroundpage and look into Contents.swift.

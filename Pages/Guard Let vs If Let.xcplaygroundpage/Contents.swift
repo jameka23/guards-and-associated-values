@@ -70,6 +70,8 @@ let user5 = User(cards: [:], accountCredit: 100.00)
 
 
 //: ANSWER
-// user1, user2 will both pass the guard and print out "Checkout: ..."
+// user1 will pass the guard and print out "Checkout: ..."
+// user2 only has a Business Card and not a Personal Card
+// user3 Personal Card is a Discover which can not be used
 // depending upon the charge, user4 & user5 could easily pass or fail
 
